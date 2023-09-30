@@ -1,0 +1,27 @@
+
+Difference between var, let, const
+
+1.value Change
+    ->var will allow to change the value
+    ->let will allow to change the value
+    ->const will not allow to change value
+
+2.variable Re-declaration
+    ->var will allow to re-declare a variable with same name
+    ->let will not allow
+    ->const will not allow
+
+3.Scope of variable
+    ->var will be able to access outside of block
+    ->const & let will be able to access only inside the block
+    if it is defined under block.
+=============================================================
+
+
+
+Array:
+map function is used for listing function
+map function will read the element from array
+it will read the element split into two part
+    value
+    postition
